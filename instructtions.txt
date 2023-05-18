@@ -1,0 +1,27 @@
+Create a new HTML document, give it the required HTML parts and give it the title
+“HTML Exercises” done.
+
+
+Give the background of the body a color of your choice.done.
+
+Inside the body of this document create a large headline and style it in a color of
+your choice.done.
+
+Beneath the headline write some dummy text. You can copy some so-called “Lorem
+Ipsum” text from this website. Make some parts of the text italic, others bold and
+underline some of the text. done.
+
+Below the text create a new headline with a lower hierarchy. Style it in the same
+color than the first headline.done.
+
+Create another headline of the same hierarchy as 5. Give it another color than the
+headline in 5. done,
+
+Add an external link to Google. done.
+
+Add an image of your favorite dish done.
+
+Create three boxes with both width and height set 100px and set their background
+to a new color. If you resize your screen to smaller than 576px show only one box, if
+the screen is between 577px and 1024px show two boxes and if the screen is larger
+than 1025px show all three boxes horizontally next to each other
